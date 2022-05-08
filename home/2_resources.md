@@ -6,5 +6,6 @@
 3. [Cloud Computing: Concepts, Technology & Architecture - Thomas Erl and others - book](https://www.goodreads.com/book/show/17133059-cloud-computing)
 4. [Cloud Application Development Foundation - Specialization - Coursera](https://www.coursera.org/specializations/ibm-cloud-application-development-foundations)
 5. [Cloud Computing MicroMasters program - edX](https://www.edx.org/micromasters/usmx-umgc-cloud-computing?index=product&queryID=f9c8eb4e5b7334e185ab20c97a8541b8&position=1)
+6. [cloudacademy - Cloud Computing Fundamentals](https://cloudacademy.com/library/cloud-fundamentals/)
 
 Note: Some courses have significant overlaps here.
